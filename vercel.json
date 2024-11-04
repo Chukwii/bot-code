@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "cypto_bot.py": {
+        "runtime": "python3.12"
+      }
+    }
+  }
+  
